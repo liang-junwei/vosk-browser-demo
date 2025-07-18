@@ -1,6 +1,6 @@
 <h1 align="center">Vosk Browser Demo</h1>
 <p align="center">
-  <img src="https://img.shields.io/badge/Vosk.js-0.0.8-blue" alt="Python"/>
+  <img src="https://img.shields.io/badge/Vosk.js-0.0.8-blue" alt="vosk"/>
 </p>
 <hr>
 
