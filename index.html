@@ -72,7 +72,7 @@
         //创建语音识别组件
         const recognizer = new SpeechRecognizer(
             null,  //组件挂载的父容器className
-            'models/vosk-model-small-cn-0.3.tar.gz',  //模型路径
+            'vosk-browser-demo/models/vosk-model-small-cn-0.3.tar.gz',  //模型路径
             (voiceText) => {    //语音识别之后的回调函数
                 document.getElementById('textInput').value += voiceText;
             }
