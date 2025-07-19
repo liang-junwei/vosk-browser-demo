@@ -221,7 +221,7 @@ class SpeechRecognizer {
         top: '50%',
         width: '100%',
         justifyItems: 'center',
-        text-align: 'center'
+        textAlign: 'center'
       });
       //临时结果
       this.#partialResult = document.createElement('div');
